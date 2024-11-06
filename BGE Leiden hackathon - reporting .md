@@ -1,19 +1,105 @@
-# Enhancing Digital Infrastructures and Data Handling Practices for Single Specimen Barcoding \- the 2024 BGE Barcoding Hackathon
+---
+title: 'Enhancing Digital Infrastructures and Data Handling Practices for Single Specimen Barcoding \- the 2024 BGE Barcoding Hackathon'
+tags:
+  - Barcoding
+  - ANOther
+  - ANOther
+authors:
+  - name: Rutger Vos (RAV)
+    orcid: 0000
+    affiliation:
+      - 1
+      - 2
+  - name: Kessy Abarenkov (KA)
+    affiliation: 3
+  - name: Jireh Agda (JIA)
+    affiliation: 4
+  - name: Josh Agda (JOA)
+    affiliation: 4
+  - name: Ruud Altenburg (RA)
+    affiliation: 1
+  - name: Sarah J. Bourlat (SJB)
+    affiliation: 5
+  - name: Thomas Brown (TFB)
+    affiliation:
+      - 6
+      - 7
+  - name: Eli Chadwick (EC)
+    affiliation: 8
+  - name: Pierre-Etienne Cholley (PEC)
+    affiliation: 1
+  - name: Fabian Deister (FD)
+    affiliation: 9
+  - name: Dick Groenenberg (DG)
+    affiliation: 1
+  - name: Sharif Islam (SI)
+    affiliation: 1
+  - name: Nick Juty (NJ)
+    affiliation: 8
+  - name: Vishnukumar Balavenkataraman Kadhirvelu (VBK)
+    affiliation: 10
+  - name: Maria Kamouyiaros (MK)
+    affiliation: 11
+  - name: Douglas Lowe (DL)
+    affiliation: 8
+  - name: Hana Merchant (HM)
+    affiliation: 11
+  - name: Joana Pauperio (JP)
+    affiliation: 10
+  - name: Ben Price (BP)
+    affiliation: 11
+  - name: Sujeevan Ratnasingham (SR)
+    affiliation: 4
+  - name: Stian Soiland-Reyes (SSR)
+    affiliation: 8
+  - name: Giorgia Staffoni (GS)
+    affiliation: 12
+  - name: Catherine Wei (CW)
+    affiliation: 4
+  - name: Oliver White (OW)
+    affiliation: 11
+  - name: Dimitris Koureas (DK)
+    affiliation: 1
 
-Rutger Vos1,2 (RAV), Kessy Abarenkov3 (KA), Jireh Agda4 (JIA), Josh Agda4 (JOA), Ruud Altenburg1 (RA), Sarah J. Bourlat5 (SJB), Thomas Brown6,7 (TFB), Eli Chadwick8 (EC), Pierre-Etienne Cholley1 (PEC), Fabian Deister9 (FD), Dick Groenenberg1 (DG), Sharif Islam1 (SI), Nick Juty8 (NJ), Vishnukumar Balavenkataraman Kadhirvelu10 (VBK), Maria Kamouyiaros11 (MK), Douglas Lowe8 (DL), Hana Merchant11 (HM), Joana Pauperio10 (JP), Ben Price11 (BP), Sujeevan Ratnasingham4 (SR), Stian Soiland-Reyes8 (SSR), Giorgia Staffoni12 (GS), Catherine Wei4 (CW), Oliver White11 (OW), Dimitris Koureas1 (DK)
+affiliations:
+  - name: Naturalis Biodiversity Center, Leiden, The Netherlands
+    index: 1
+  - name: Institute of Biology Leiden, Leiden University, Leiden, The Netherlands 
+    index: 2 
+  - name: Natural History Museum, University of Tartu, Tartu, Estonia
+    index: 3 
+  - name: Centre for Biodiversity Genomics, Guelph, Canada
+    index: 4 
+  - name: Leibniz Institute for the Analysis of Biodiversity Change, Museum Koenig, Bonn, Germany
+    index: 5 
+  - name: Leibniz Institute for Zoo and Wildlife Research, Berlin, Germany 
+    index: 6 
+  - name: Berlin Center for Genomics in Biodiversity Research, Berlin, Germany
+    index: 7 
+  - name: The University of Manchester, Manchester, UK 
+    index: 8 
+  - name: Zoologische Staatssammlung München, Munich, Germany
+    index: 9 
+  - name: European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, UK
+    index: 10 
+  - name: Natural History Museum, London, UK
+    index: 11
+  - name: Università degli Studi di Firenze, Florence, Italy
+    index: 12
+date:
+bibliography:
+authors_short: Last et al. (2021) BioHackrXiv  template
+group:
+event:
+---
 
-1. Naturalis Biodiversity Center, Leiden, The Netherlands  
-2. Institute of Biology Leiden, Leiden University, Leiden, The Netherlands  
-3. Natural History Museum, University of Tartu, Tartu, Estonia  
-4. Centre for Biodiversity Genomics, Guelph, Canada  
-5. Leibniz Institute for the Analysis of Biodiversity Change, Museum Koenig, Bonn, Germany  
-6. Leibniz Institute for Zoo and Wildlife Research, Berlin, Germany  
-7. Berlin Center for Genomics in Biodiversity Research, Berlin, Germany   
-8. The University of Manchester, Manchester, UK  
-9. Zoologische Staatssammlung München, Munich, Germany  
-10. European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, UK  
-11. Natural History Museum, London, UK  
-12. Università degli Studi di Firenze, Florence, Italy
+
+
+
+
+
+
+
 
 ## Abstract
 
