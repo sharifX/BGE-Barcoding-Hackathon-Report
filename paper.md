@@ -24,6 +24,7 @@ authors:
   - name: Sarah J. Bourlat (SJB)
     affiliation: 5
   - name: Thomas Brown (TFB)
+    orcid: 0000-0001-8293-4816
     affiliation:
       - 6
       - 7
