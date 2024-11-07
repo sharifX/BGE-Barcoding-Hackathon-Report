@@ -9,7 +9,7 @@ tags:
   - Biodiversity Genomics Europe (BGE)
 authors:
   - name: Rutger Vos (RAV)
-    orcid: 0000
+    orcid: 0000-0001-9254-7318
     affiliation:
       - 1
       - 2
@@ -91,7 +91,7 @@ affiliations:
     index: 12
 date: 2024
 bibliography: paper.bib
-authors_short: Rutger et al. (2021) BGE Barcoding 
+authors_short: Rutger et al. (2024) BGE Barcoding 
 group: BGE
 event: BGE Barcoding Hackathon
 ---
