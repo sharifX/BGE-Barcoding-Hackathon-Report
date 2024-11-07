@@ -60,6 +60,7 @@ authors:
   - name: Catherine Wei (CW)
     affiliation: 4
   - name: Oliver White (OW)
+    orcid: 0000-0001-6444-0310
     affiliation: 11
   - name: Dimitris Koureas (DK)
     affiliation: 1
