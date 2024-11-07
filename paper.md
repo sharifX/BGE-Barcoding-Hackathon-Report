@@ -51,6 +51,7 @@ authors:
   - name: Joana Pauperio (JP)
     affiliation: 10
   - name: Ben Price (BP)
+    orcid: 0000-0001-5497-4087
     affiliation: 11
   - name: Sujeevan Ratnasingham (SR)
     affiliation: 4
