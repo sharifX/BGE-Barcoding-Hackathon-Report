@@ -22,6 +22,7 @@ authors:
   - name: Ruud Altenburg (RA)
     affiliation: 1
   - name: Sarah J. Bourlat (SJB)
+    orcid: 0000-0003-0218-0298
     affiliation: 5
   - name: Thomas Brown (TFB)
     orcid: 0000-0001-8293-4816
