@@ -97,7 +97,7 @@ affiliations:
     index: 12
 date: 2024
 bibliography: paper.bib
-authors_short: Rutger et al. (2024) BGE Barcoding 
+authors_short: Vos et al. (2024) BGE Barcoding Hackathon 
 group: BGE
 event: BGE Barcoding Hackathon
 ---
